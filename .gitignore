@@ -4,3 +4,4 @@
 *.log
 build/
 .pytest_cache/
+*.tmp
